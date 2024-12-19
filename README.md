@@ -1,5 +1,5 @@
 # Java_Program
-###1. WAP to enter the access code and check whether door is open or not. (AccessCode.java)
+###1. WAP to enter the access code and check whether door is open or not. (AccessCode.java):
 This Java program checks if a user-entered access code matches a predefined code (1234) to determine whether the door is open or closed. 
 
 ### Code Details:
