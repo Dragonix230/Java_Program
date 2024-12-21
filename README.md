@@ -30,8 +30,27 @@ This Java program determines whether a user is eligible to vote based on their a
 
 ---
 
+## 3. Program to Check if a Number is Positive, Negative, or Zero (`NumberCheck.java`)
+
+This Java program takes a user-entered number and determines whether it is positive, negative, or zero, with added input validation.
+
+### Code Details:
+1. **Scanner Class**: Used to take user input from the console.
+2. **Input Validation**: 
+   - The program uses `sc.hasNextInt()` to ensure the input is a valid integer.
+   - If the input is invalid, it prints "Invalid input. Please enter a valid integer."
+3. **Logic**:
+   - If the number is **greater than 0**, it prints "The number is positive."
+   - If the number is **less than 0**, it prints "The number is negative."
+   - If the number is **0**, it prints "The number is zero."
+4. **File Name**: 
+   - The file must be saved as `NumberCheck.java` since the class name in the program is `NumberCheck`.
+
+---
+
 ### Summary
 
-These Java programs demonstrate basic input handling and conditional logic:
-- **AccessCode.java**: Verifies a predefined access code to open or close the door.
-- **VotingEligibility.java**: Checks if the user's age meets the minimum requirement for voting.
+These Java programs demonstrate basic input handling, conditional logic, and input validation:
+1. **AccessCode.java**: Verifies a predefined access code to open or close the door.
+2. **VotingEligibility.java**: Checks if the user's age meets the minimum requirement for voting.
+3. **NumberCheck.java**: Validates and identifies whether a number is positive, negative, or zero.
