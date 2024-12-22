@@ -48,9 +48,30 @@ This Java program takes a user-entered number and determines whether it is posit
 
 ---
 
+## 4. Program to Assign Grades Based on Marks (`GradeChecker.java`)
+
+This Java program assigns grades to students based on the marks they enter, ensuring that the input is valid.
+
+### Code Details:
+1. **Scanner Class**: Used to take input (marks) from the user.
+2. **Input Validation**: 
+   - The program ensures that the marks entered are within the range of 0 to 100.
+   - If the marks are outside this range, it prints "Invalid marks entered."
+3. **Grade Assignment**: 
+   - **A** for marks **90 or above**.
+   - **B** for marks **80-89**.
+   - **C** for marks **70-79**.
+   - **D** for marks **60-69**.
+   - **F** for marks **below 60**.
+4. **File Name**: 
+   - The file must be saved as `GradeChecker.java` since the class name in the program is `GradeChecker`.
+
+---
+
 ### Summary
 
-These Java programs demonstrate basic input handling, conditional logic, and input validation:
+These Java programs demonstrate fundamental concepts like input handling, conditional logic, and validation:
 1. **AccessCode.java**: Verifies a predefined access code to open or close the door.
 2. **VotingEligibility.java**: Checks if the user's age meets the minimum requirement for voting.
 3. **NumberCheck.java**: Validates and identifies whether a number is positive, negative, or zero.
+4. **GradeChecker.java**: Assigns grades to students based on marks entered, with proper input validation.
