@@ -15,6 +15,11 @@ This repository contains a collection of simple Java programs demonstrating fund
 8. [Gross Salary Calculator](#8-gross-salary-calculator)
 9. [Day Display Using Switch Case](#9-day-display-using-switch-case)
 10. [Number Printing Using While Loop](#10-number-printing-using-while-loop)
+11. [New Year Countdown](#11-new-year-countdown)
+12. [Yatzy Dice Game](#12-yatzy-dice-game)
+13. [Number Printing Using For Loop](#13-number-printing-using-for-loop)
+14. [Prime Number Checker](#14-prime-number-checker)
+15. [Binary to Decimal Converter](#15-binary-to-decimal-converter)
 
 ---
 
@@ -100,6 +105,48 @@ This repository contains a collection of simple Java programs demonstrating fund
 - **Key Features**:
   - Initializes a counter variable.
   - Iterates and prints numbers from 0 to 5.
+
+---
+
+### 11. New Year Countdown
+- **Description**: Prints a countdown from 10 to 0 and displays "Happy New Year!".
+- **Key Features**:
+  - Uses a `while` loop to iterate through the countdown.
+  - Outputs the message when the countdown reaches 0.
+
+---
+
+### 12. Yatzy Dice Game
+- **Description**: Prints "Yatzy" if the dice number is 6, simulating a dice roll.
+- **Key Features**:
+  - Uses a `while` loop to simulate rolling a dice.
+  - Outputs "Yatzy" when the number 6 is rolled.
+
+---
+
+### 13. Number Printing Using For Loop
+- **Description**: Prints numbers from 0 to 5 using a for loop.
+- **Key Features**:
+  - Uses a `for` loop for iteration.
+  - Outputs numbers sequentially from 0 to 5.
+
+---
+
+### 14. Prime Number Checker
+- **Description**: Determines whether a number entered by the user is a prime number.
+- **Key Features**:
+  - Takes user input for the number.
+  - Uses a `while` loop to check divisibility.
+  - Outputs whether the number is prime or not.
+
+---
+
+### 15. Binary to Decimal Converter
+- **Description**: Converts a binary number entered by the user into its decimal equivalent.
+- **Key Features**:
+  - Takes binary input from the user.
+  - Uses mathematical logic to calculate the decimal equivalent.
+  - Outputs the result.
 
 ---
 
