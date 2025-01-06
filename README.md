@@ -20,6 +20,11 @@ This repository contains a collection of simple Java programs demonstrating fund
 13. [Number Printing Using For Loop](#13-number-printing-using-for-loop)
 14. [Prime Number Checker](#14-prime-number-checker)
 15. [Binary to Decimal Converter](#15-binary-to-decimal-converter)
+16. [Even Numbers from 0 to 10](#16-even-numbers-from-0-to-10)
+17. [Odd Numbers from 0 to 10](#17-odd-numbers-from-0-to-10)
+18. [Print Tables](#18-print-tables)
+19. [Armstrong Number Checker](#19-armstrong-number-checker)
+20. [Power Calculator](#20-power-calculator)
 
 ---
 
@@ -147,6 +152,47 @@ This repository contains a collection of simple Java programs demonstrating fund
   - Takes binary input from the user.
   - Uses mathematical logic to calculate the decimal equivalent.
   - Outputs the result.
+
+---
+
+### 16. Even Numbers from 0 to 10
+- **Description**: Prints only even numbers from 0 to 10 using a for loop.
+- **Key Features**:
+  - Uses a `for` loop with a step size of 2.
+  - Outputs even numbers between 0 and 10.
+
+---
+
+### 17. Odd Numbers from 0 to 10
+- **Description**: Prints only odd numbers from 0 to 10 using a for loop.
+- **Key Features**:
+  - Uses a `for` loop with a step size of 2, starting from 1.
+  - Outputs odd numbers between 0 and 10.
+
+---
+
+### 18. Print Tables
+- **Description**: Prints the multiplication tables for 2 from 0 to 10 using a for loop.
+- **Key Features**:
+  - Uses a `for` loop to generate and print the multiplication table for the number 2.
+  - Outputs the table from 2 × 0 to 2 × 10.
+
+---
+
+### 19. Armstrong Number Checker
+- **Description**: Finds Armstrong numbers between 100 and 999.
+- **Key Features**:
+  - Loops through numbers between 100 and 999.
+  - Checks if a number is an Armstrong number (sum of cubes of its digits equals the number).
+  - Outputs the Armstrong numbers.
+
+---
+
+### 20. Power Calculator
+- **Description**: Calculates the power of a base number by entering inputs.
+- **Key Features**:
+  - Takes base and exponent as inputs.
+  - Calculates and outputs the power of the base number raised to the exponent.
 
 ---
 
